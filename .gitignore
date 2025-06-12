@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+node_modules
+=======
+.sass-cache
+/.sass-cache
+<<<<<<< HEAD
+>>>>>>> 1c30bd43 (new)
+=======
+
+# Angular build and cache
+.angular/
+dist/
+*.tsbuildinfo
+
+# IDE settings
+.idea/
+.vscode/
+>>>>>>> 340e0505 (Cleaned project, ignored cache/IDE files)
